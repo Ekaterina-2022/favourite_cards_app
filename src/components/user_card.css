@@ -1,0 +1,9 @@
+.user__container {
+	width: 200px;
+	height: 300px;
+	border: 2px solid rgb(153, 141, 9);
+}
+.user__img {
+	width: 200px;
+	height: 150px;
+}
